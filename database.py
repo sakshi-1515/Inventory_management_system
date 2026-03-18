@@ -1,3 +1,5 @@
+# created database connection
+
 import mysql.connector
 
 def get_connection():     # function to establish database connection
